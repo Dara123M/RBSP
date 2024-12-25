@@ -1,0 +1,11 @@
+solution:
+7 72 88 99 159 179 184 191 201 249 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+10
+
+ time:
+881.806024

@@ -1,0 +1,11 @@
+solution:
+37 46 53 73 79 80 135 157 193 198 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+10
+
+ time:
+492.201823

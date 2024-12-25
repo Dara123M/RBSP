@@ -1,0 +1,11 @@
+solution:
+79 117 136 154 157 162 208 228 238 239 248 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+11
+
+ time:
+1016.265892
