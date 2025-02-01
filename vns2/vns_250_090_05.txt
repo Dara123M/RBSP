@@ -1,0 +1,11 @@
+solution:
+39 41 54 71 81 95 105 106 109 113 121 127 130 134 136 143 150 159 204 213 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+20
+
+ time:
+2809.239525

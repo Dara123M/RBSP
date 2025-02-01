@@ -1,0 +1,110 @@
+instance,time,solution len,solution
+0,0.042555,2,1 4
+instance,time,solution len,solution
+1,0.043818,3,2 4 7
+instance,time,solution len,solution
+2,0.044508,3,2 6 8
+instance,time,solution len,solution
+3,0.046958,2,1 6
+instance,time,solution len,solution
+4,0.057915,2,3 9
+instance,time,solution len,solution
+5,0.069297,3,0 1 8
+instance,time,solution len,solution
+6,0.088867,2,1 6
+instance,time,solution len,solution
+7,0.058867,2,2 9
+instance,time,solution len,solution
+8,0.051488,1,4
+instance,time,solution len,solution
+9,0.063891,2,4 6
+avg_time,0.0568164
+avg_length,2.2
+instance,time,solution len,solution
+0,0.043101,2,1 4
+instance,time,solution len,solution
+1,0.058802,3,7 8 9
+instance,time,solution len,solution
+2,0.045463,3,3 5 7
+instance,time,solution len,solution
+3,0.046732,2,1 6
+instance,time,solution len,solution
+4,0.04664,2,3 9
+instance,time,solution len,solution
+5,0.044877,3,1 4 5
+instance,time,solution len,solution
+6,0.05265,2,1 8
+instance,time,solution len,solution
+7,0.054111,2,2 9
+instance,time,solution len,solution
+8,0.099164,1,4
+instance,time,solution len,solution
+9,0.050351,2,4 6
+avg_time,0.054189100000000004
+avg_length,2.2
+instance,time,solution len,solution
+0,0.049333,2,1 4
+instance,time,solution len,solution
+1,0.053031,3,4 6 7
+instance,time,solution len,solution
+2,0.045255,3,0 2 9
+instance,time,solution len,solution
+3,0.055452,2,1 6
+instance,time,solution len,solution
+4,0.04997,2,1 5
+instance,time,solution len,solution
+5,0.047648,3,0 4 5
+instance,time,solution len,solution
+6,0.057098,2,1 6
+instance,time,solution len,solution
+7,0.049347,2,2 9
+instance,time,solution len,solution
+8,0.047336,1,4
+instance,time,solution len,solution
+9,0.047949,2,4 6
+avg_time,0.050241900000000006
+avg_length,2.2
+instance,time,solution len,solution
+0,0.040828,2,1 4
+instance,time,solution len,solution
+1,0.051735,3,5 8 9
+instance,time,solution len,solution
+2,0.088682,3,0 2 3
+instance,time,solution len,solution
+3,0.057338,2,0 1
+instance,time,solution len,solution
+4,0.051994,2,3 9
+instance,time,solution len,solution
+5,0.045493,3,0 4 8
+instance,time,solution len,solution
+6,0.052946,2,1 6
+instance,time,solution len,solution
+7,0.061747,2,2 9
+instance,time,solution len,solution
+8,0.056802,1,4
+instance,time,solution len,solution
+9,0.052462,2,4 6
+avg_time,0.0560027
+avg_length,2.2
+instance,time,solution len,solution
+0,0.044602,2,1 4
+instance,time,solution len,solution
+1,0.049471,3,4 6 9
+instance,time,solution len,solution
+2,0.060944,3,0 1 2
+instance,time,solution len,solution
+3,0.055895,2,1 6
+instance,time,solution len,solution
+4,0.051734,2,1 5
+instance,time,solution len,solution
+5,0.048125,3,0 4 8
+instance,time,solution len,solution
+6,0.048308,2,1 8
+instance,time,solution len,solution
+7,0.052248,2,2 9
+instance,time,solution len,solution
+8,0.052136,1,4
+instance,time,solution len,solution
+9,0.048286,2,4 6
+avg_time,0.0511749
+avg_length,2.2

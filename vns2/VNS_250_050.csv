@@ -1,0 +1,22 @@
+instance,time,solution len,solution
+0,2578.570634,10,0 4 18 21 43 45 53 122 182 210
+instance,time,solution len,solution
+1,2616.098962,10,33 50 65 72 85 125 188 190 196 249
+instance,time,solution len,solution
+2,2601.284593,10,60 93 102 106 110 169 172 183 212 237
+instance,time,solution len,solution
+3,2692.060256,10,2 38 39 129 138 145 157 182 239 241
+instance,time,solution len,solution
+4,2692.613753,10,27 131 158 190 196 224 240 241 242 248
+instance,time,solution len,solution
+5,2605.581197,10,12 70 72 85 94 116 192 212 217 218
+instance,time,solution len,solution
+6,2743.283843,10,32 37 39 48 82 84 121 170 216 237
+instance,time,solution len,solution
+7,2771.716599,10,8 30 32 45 133 144 146 170 225 245
+instance,time,solution len,solution
+8,2629.55963,10,43 48 56 62 104 114 119 122 230 249
+instance,time,solution len,solution
+9,2683.744633,10,18 43 58 72 113 203 207 208 212 228
+avg_time,2661.45141
+avg_nodes,10.0

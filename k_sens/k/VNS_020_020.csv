@@ -1,0 +1,110 @@
+instance,time,solution len,solution
+0,0.254578,5,3 4 6 7 11
+instance,time,solution len,solution
+1,0.276407,5,1 2 3 17 19
+instance,time,solution len,solution
+2,0.184133,4,2 3 8 10
+instance,time,solution len,solution
+3,0.195742,4,1 13 17 19
+instance,time,solution len,solution
+4,0.248198,5,0 1 4 5 17
+instance,time,solution len,solution
+5,0.240746,4,2 5 11 17
+instance,time,solution len,solution
+6,0.239986,4,2 6 9 10
+instance,time,solution len,solution
+7,0.315851,6,0 4 9 10 17 19
+instance,time,solution len,solution
+8,0.269808,3,4 10 18
+instance,time,solution len,solution
+9,0.262554,4,1 7 11 15
+avg_time,0.2488003
+avg_length,4.4
+instance,time,solution len,solution
+0,0.22058,5,2 8 10 13 19
+instance,time,solution len,solution
+1,0.28514,5,3 4 13 18 19
+instance,time,solution len,solution
+2,0.246427,4,4 10 14 17
+instance,time,solution len,solution
+3,0.229327,4,1 2 14 17
+instance,time,solution len,solution
+4,0.233196,5,3 7 10 14 18
+instance,time,solution len,solution
+5,0.248617,4,1 11 17 18
+instance,time,solution len,solution
+6,0.245801,4,0 8 12 16
+instance,time,solution len,solution
+7,0.233272,6,0 2 4 9 17 19
+instance,time,solution len,solution
+8,0.266465,3,4 10 18
+instance,time,solution len,solution
+9,0.28286,4,1 7 11 15
+avg_time,0.2491685
+avg_length,4.4
+instance,time,solution len,solution
+0,0.221554,5,1 9 12 16 19
+instance,time,solution len,solution
+1,0.294026,5,4 11 12 13 14
+instance,time,solution len,solution
+2,0.257702,4,2 3 8 10
+instance,time,solution len,solution
+3,0.256175,4,7 9 16 18
+instance,time,solution len,solution
+4,0.238447,5,3 4 14 17 18
+instance,time,solution len,solution
+5,0.277729,4,1 2 8 11
+instance,time,solution len,solution
+6,0.255173,4,6 12 16 18
+instance,time,solution len,solution
+7,0.247694,6,9 11 14 15 17 18
+instance,time,solution len,solution
+8,0.270153,3,4 10 18
+instance,time,solution len,solution
+9,0.256522,4,4 6 14 19
+avg_time,0.25751749999999995
+avg_length,4.4
+instance,time,solution len,solution
+0,0.221745,5,1 2 3 10 17
+instance,time,solution len,solution
+1,0.278189,5,1 2 3 7 11
+instance,time,solution len,solution
+2,0.227686,4,0 2 13 19
+instance,time,solution len,solution
+3,0.258356,4,1 2 14 17
+instance,time,solution len,solution
+4,0.266288,5,3 4 14 17 18
+instance,time,solution len,solution
+5,0.229598,4,2 5 11 17
+instance,time,solution len,solution
+6,0.232925,4,3 4 17 18
+instance,time,solution len,solution
+7,0.238767,6,0 2 3 4 5 17
+instance,time,solution len,solution
+8,0.374672,3,4 10 18
+instance,time,solution len,solution
+9,0.31681,4,4 6 14 19
+avg_time,0.2645036
+avg_length,4.4
+instance,time,solution len,solution
+0,0.227273,5,3 4 6 7 11
+instance,time,solution len,solution
+1,0.259492,5,3 4 13 16 19
+instance,time,solution len,solution
+2,0.216087,4,1 2 5 12
+instance,time,solution len,solution
+3,0.289275,4,7 9 16 18
+instance,time,solution len,solution
+4,0.352824,5,1 4 9 17 18
+instance,time,solution len,solution
+5,0.259764,4,1 2 8 11
+instance,time,solution len,solution
+6,0.247436,4,2 6 9 10
+instance,time,solution len,solution
+7,0.268755,6,0 9 12 14 18 19
+instance,time,solution len,solution
+8,0.304731,3,4 10 18
+instance,time,solution len,solution
+9,0.309822,4,1 6 14 19
+avg_time,0.2735459
+avg_length,4.4

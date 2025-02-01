@@ -1,0 +1,110 @@
+instance,time,solution len,solution
+0,16.411582,10,4 16 18 20 28 38 39 46 47 49
+instance,time,solution len,solution
+1,17.742534,9,1 9 11 12 13 16 27 32 45
+instance,time,solution len,solution
+2,14.949387,10,3 8 9 14 18 19 26 33 44 47
+instance,time,solution len,solution
+3,13.869054,10,11 13 15 17 19 22 26 40 42 47
+instance,time,solution len,solution
+4,12.77639,9,3 5 8 11 18 34 35 46 49
+instance,time,solution len,solution
+5,15.511617,9,5 7 17 22 27 30 34 39 44
+instance,time,solution len,solution
+6,17.755294,10,4 5 13 17 20 22 23 30 37 49
+instance,time,solution len,solution
+7,13.577149,9,0 7 20 24 31 34 35 39 41
+instance,time,solution len,solution
+8,13.950467,10,5 11 16 20 24 28 33 42 43 45
+instance,time,solution len,solution
+9,16.839932,9,11 12 16 21 33 34 35 46 48
+avg_time,15.3383406
+avg_length,9.5
+instance,time,solution len,solution
+0,16.954436,11,12 15 24 26 27 31 32 34 43 44 47
+instance,time,solution len,solution
+1,14.956344,9,1 9 11 12 13 16 32 33 45
+instance,time,solution len,solution
+2,16.724839,10,3 12 15 19 23 25 28 33 44 47
+instance,time,solution len,solution
+3,17.141736,10,9 11 13 15 19 20 22 32 37 40
+instance,time,solution len,solution
+4,16.558179,9,3 7 8 9 17 35 38 43 49
+instance,time,solution len,solution
+5,13.808785,9,4 11 16 17 24 28 37 38 39
+instance,time,solution len,solution
+6,14.97217,10,5 13 15 22 26 29 37 38 43 49
+instance,time,solution len,solution
+7,17.204843,9,0 7 9 27 29 31 33 44 47
+instance,time,solution len,solution
+8,17.394157,10,0 2 11 12 15 27 30 35 45 47
+instance,time,solution len,solution
+9,18.648924,9,11 12 14 16 21 34 38 44 48
+avg_time,16.436441300000002
+avg_length,9.6
+instance,time,solution len,solution
+0,18.070779,10,4 6 18 20 28 35 38 39 46 47
+instance,time,solution len,solution
+1,16.956059,10,4 6 10 14 15 17 20 36 43 44
+instance,time,solution len,solution
+2,16.657201,10,3 12 15 19 23 25 28 33 44 47
+instance,time,solution len,solution
+3,17.762543,10,10 13 15 18 24 30 36 40 46 47
+instance,time,solution len,solution
+4,18.036235,9,1 5 8 11 34 35 39 46 49
+instance,time,solution len,solution
+5,17.782462,9,7 17 24 27 30 31 33 34 39
+instance,time,solution len,solution
+6,18.326673,10,5 13 15 19 22 29 37 38 43 49
+instance,time,solution len,solution
+7,20.267979,9,4 5 15 20 24 34 35 36 47
+instance,time,solution len,solution
+8,16.614524,10,0 2 11 12 21 27 35 37 45 48
+instance,time,solution len,solution
+9,18.382251,9,11 12 16 21 22 33 34 35 48
+avg_time,17.8856706
+avg_length,9.6
+instance,time,solution len,solution
+0,17.098418,10,4 6 14 20 28 31 35 39 46 47
+instance,time,solution len,solution
+1,15.349165,10,4 6 10 14 15 17 20 36 43 44
+instance,time,solution len,solution
+2,17.822171,11,2 12 13 15 19 23 24 25 38 41 42
+instance,time,solution len,solution
+3,15.30469,10,9 11 13 15 19 22 24 32 37 40
+instance,time,solution len,solution
+4,19.89642,9,5 10 11 12 16 19 27 44 48
+instance,time,solution len,solution
+5,14.559615,9,7 17 24 27 30 31 34 39 41
+instance,time,solution len,solution
+6,16.87975,10,4 5 13 21 35 37 38 42 43 49
+instance,time,solution len,solution
+7,17.796983,9,0 7 9 20 24 31 34 45 47
+instance,time,solution len,solution
+8,16.70448,10,1 2 8 9 19 25 32 40 41 44
+instance,time,solution len,solution
+9,17.961408,9,11 12 16 18 21 33 34 35 48
+avg_time,16.93731
+avg_length,9.7
+instance,time,solution len,solution
+0,16.388735,10,2 4 13 16 20 35 38 39 46 47
+instance,time,solution len,solution
+1,15.718493,9,1 5 9 11 12 13 32 33 45
+instance,time,solution len,solution
+2,15.320954,10,3 7 9 14 18 19 26 33 44 47
+instance,time,solution len,solution
+3,15.027303,10,9 11 13 15 19 22 24 32 37 40
+instance,time,solution len,solution
+4,15.739929,9,5 8 11 34 35 39 43 48 49
+instance,time,solution len,solution
+5,17.513072,9,4 7 16 17 22 27 34 39 41
+instance,time,solution len,solution
+6,15.212428,10,4 5 13 16 21 35 37 38 43 49
+instance,time,solution len,solution
+7,14.828625,9,3 6 18 24 28 42 43 47 49
+instance,time,solution len,solution
+8,13.89118,9,4 6 7 12 25 26 31 36 48
+instance,time,solution len,solution
+9,12.92207,9,0 11 12 21 31 34 38 44 48
+avg_time,15.256278900000002
+avg_length,9.4

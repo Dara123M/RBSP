@@ -1,0 +1,11 @@
+solution:
+60 93 102 106 110 169 172 183 212 237 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+10
+
+ time:
+2601.284593

@@ -1,0 +1,11 @@
+solution:
+14 26 30 42 46 51 55 73 80 99 100 115 134 138 178 179 198 200 205 213 247 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+21
+
+ time:
+2638.081285

@@ -1,0 +1,11 @@
+solution:
+33 50 65 72 85 125 188 190 196 249 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+10
+
+ time:
+2616.098962

@@ -1,0 +1,11 @@
+solution:
+43 48 56 62 104 114 119 122 230 249 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+10
+
+ time:
+2629.55963

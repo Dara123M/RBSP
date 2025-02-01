@@ -1,0 +1,22 @@
+instance,time,solution len,solution
+0,0.238973,5,1 9 12 16 19
+instance,time,solution len,solution
+1,0.207185,5,1 2 3 18 19
+instance,time,solution len,solution
+2,0.183094,4,2 3 8 10
+instance,time,solution len,solution
+3,0.214499,4,1 10 13 19
+instance,time,solution len,solution
+4,0.188482,5,4 7 15 17 18
+instance,time,solution len,solution
+5,0.254026,4,2 5 11 17
+instance,time,solution len,solution
+6,0.217129,4,2 6 11 17
+instance,time,solution len,solution
+7,0.202309,6,0 3 4 5 17 18
+instance,time,solution len,solution
+8,0.226889,3,4 10 18
+instance,time,solution len,solution
+9,0.220859,4,1 6 14 19
+avg_time,0.2153445
+avg_nodes,4.4

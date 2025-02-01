@@ -1,0 +1,11 @@
+solution:
+32 37 39 48 82 84 121 170 216 237 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+10
+
+ time:
+2743.283843

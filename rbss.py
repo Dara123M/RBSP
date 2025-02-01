@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import os
 import sys
+VALID_ACTIONS = ['generate', 'bruteforce', 'vns', 'greedy', 'vns1']
 PARAMS = {
     "NUM_INSTANCES" : "10", #10
     "NUM_NODES" : "", #10
@@ -54,7 +55,7 @@ def evaluateParametersToExec(parameters):
         PARAMS["INPUT_DIR_PATH"] = "graphs/"
     
     
-    if "-op" in parameters.keys() and (PARAMS["TO_EXECUTE"] == 'vns' or PARAMS["TO_EXECUTE"] == 'bruteforce'):
+    if "-op" in parameters.keys() and (PARAMS["TO_EXECUTE"] == 'vns' or PARAMS["TO_EXECUTE"] == 'vns1' or PARAMS["TO_EXECUTE"] == 'bruteforce' or PARAMS["TO_EXECUTE"] == 'greedy'):
         PARAMS["OUTPUT_DIR_PATH"] = parameters['-op']
     else:
         PARAMS["OUTPUT_DIR_PATH"] = ""
@@ -79,14 +80,16 @@ def evaluateParametersToExec(parameters):
 #python3 exec -a generate -ip input_path -i instance -n nodes -p prob
 #python3 exec -a bruteforce -ip input_path -op output_path_path -n nodes -p prob
 #python3 exec -a vns -ip input_path -op output_path -n nodes -p prob
+#python3 exec -a greedy -ip input_path -op output_path -n nodes -p prob
+
 def main():    
     #print(sys.argv)
     if len(sys.argv) > 1 and sys.argv[1] != "-a":
         error("First parameter must be -a followed by an action [generate, vns, bruteforce]")
     
     parameters = {}    
-    if len(sys.argv) > 2 and not sys.argv[2] in ("bruteforce", "generate", "vns"):
-        error("Second parameter mus be an action [generate, vns,  bruteforce]")
+    if len(sys.argv) > 2 and not sys.argv[2] in VALID_ACTIONS:
+        error("Second parameter mus be an action [generate, vns,  bruteforce, greedy]")
     
     parameters = extractParameters(sys.argv[1:])
 

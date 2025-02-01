@@ -1,0 +1,11 @@
+solution:
+11 26 54 62 73 78 102 122 154 156 172 195 200 226 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+14
+
+ time:
+3290.67041

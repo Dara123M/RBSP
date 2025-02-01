@@ -29,10 +29,16 @@ def writeInCsv(filename, times, solutions, num_instances):
     with  open(filename, "a") as csv_file:
         writer = csv.writer(csv_file)
         for i in range(num_instances):
-            writer.writerow(['instance', 'time'])
-            writer.writerow([str(i), f'{times[i]}'])
-            writer.writerow(["solution"]+[str(j) for  j  in solutions[i]])
+            writer.writerow(['instance', 'time', 'solution len', 'solution'])
+            writer.writerow([str(i), f'{times[i]}', str(len(solutions[i])), " ".join([str(j) for  j  in solutions[i]])])
         writer.writerow(["avg_time", str(sum(times)/len(times))])
+        writer.writerow(["avg_nodes", str(sum([len(s) for s in solutions])/len(solutions))])
+
+
+def writeFitnessInCsv(filename, iter, solution, cost):
+    with  open(filename, "a") as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow([iter,  " ".join([str(j) for j in solution]), cost])
 
 def drawCircularGraph(G):
     nx.draw_circular(G, with_labels = True)

@@ -1,0 +1,21 @@
+instance,time,solution len,solution
+0,5.65628,10,0 4 21 43 75 112 120 122 184 210
+instance,time,solution len,solution
+1,5.713247,10,2 50 65 72 85 152 188 190 196 249
+instance,time,solution len,solution
+2,6.4431,10,1 46 77 93 106 110 190 212 221 229
+instance,time,solution len,solution
+3,6.352081,10,0 2 13 38 129 130 141 145 182 239
+instance,time,solution len,solution
+4,4.860951,10,0 1 27 141 158 178 190 224 242 248
+instance,time,solution len,solution
+5,4.647813,10,11 12 27 72 85 94 192 212 217 218
+instance,time,solution len,solution
+6,4.493218,10,6 13 37 39 82 122 140 170 216 237
+instance,time,solution len,solution
+7,4.80707,10,8 17 32 45 76 133 144 146 170 245
+instance,time,solution len,solution
+8,5.661377,10,6 43 48 78 93 119 122 159 224 246
+instance,time,solution len,solution
+9,5.28739,10,4 47 51 58 171 203 207 208 212 228
+avg_time,5.3922527

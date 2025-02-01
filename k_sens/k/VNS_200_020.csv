@@ -1,0 +1,44 @@
+instance,time,solution len,solution
+0,988.198067,13,16 22 40 42 53 56 82 84 92 137 163 187 196
+instance,time,solution len,solution
+1,1103.117603,13,3 4 7 31 36 37 50 53 59 122 146 174 196
+instance,time,solution len,solution
+2,1234.161765,13,16 22 23 29 30 32 55 73 82 103 154 181 193
+instance,time,solution len,solution
+3,1039.237707,13,1 21 49 85 90 92 103 124 136 158 173 177 187
+instance,time,solution len,solution
+4,1141.818445,13,15 16 32 42 48 61 74 102 151 157 165 168 171
+instance,time,solution len,solution
+5,1054.288462,13,18 31 55 58 105 108 128 136 147 152 153 182 188
+instance,time,solution len,solution
+6,1158.314955,14,3 15 19 27 61 82 87 93 103 132 148 166 178 183
+instance,time,solution len,solution
+7,1031.040403,13,14 26 46 47 63 69 83 89 91 156 178 193 199
+instance,time,solution len,solution
+8,1080.763782,14,3 25 41 44 49 59 77 87 94 124 146 158 163 191
+instance,time,solution len,solution
+9,1110.765542,13,8 14 23 28 55 80 116 136 149 155 158 163 195
+avg_time,1094.1706731
+avg_length,13.2
+instance,time,solution len,solution
+0,1026.239342,13,14 39 42 53 68 82 84 92 137 148 163 184 187
+instance,time,solution len,solution
+1,1125.213955,13,3 4 7 31 36 50 53 59 122 141 146 174 196
+instance,time,solution len,solution
+2,1120.618881,13,16 22 23 30 45 72 73 82 103 154 180 181 193
+instance,time,solution len,solution
+3,1139.370084,13,3 81 85 90 92 103 124 136 144 158 173 177 187
+instance,time,solution len,solution
+4,1166.901688,13,16 24 35 36 61 91 102 120 157 165 168 171 198
+instance,time,solution len,solution
+5,1443.933492,13,18 55 58 105 108 120 136 147 152 153 176 187 188
+instance,time,solution len,solution
+6,1174.351918,14,0 3 21 65 68 92 128 130 132 138 152 154 161 183
+instance,time,solution len,solution
+7,1106.13633,13,10 14 16 45 46 47 69 83 89 91 172 178 193
+instance,time,solution len,solution
+8,1093.702344,14,14 25 44 48 59 74 86 87 94 124 126 170 187 191
+instance,time,solution len,solution
+9,1110.715827,13,8 14 79 116 126 136 149 150 155 158 163 166 195
+avg_time,1150.7183860999999
+avg_length,13.2

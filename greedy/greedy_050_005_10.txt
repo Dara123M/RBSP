@@ -1,0 +1,11 @@
+solution:
+0 2 3 5 6 7 12 16 17 28 34 35 36 37 39 40 44 46 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+18
+
+ time:
+0.01264

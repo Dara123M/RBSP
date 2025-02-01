@@ -1,0 +1,56 @@
+k:
+2solution:
+0 3 8 10 11 12 15 17 21 23 27 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+11
+
+ time:
+0.973145k:
+3solution:
+0 3 8 10 11 12 15 17 21 23 27 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+11
+
+ time:
+0.990496k:
+5solution:
+0 3 8 10 11 12 15 17 21 23 27 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+11
+
+ time:
+1.089488k:
+7solution:
+0 3 8 10 11 12 15 17 21 23 27 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+11
+
+ time:
+1.233692k:
+10solution:
+0 3 8 10 11 12 15 17 21 23 27 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+11
+
+ time:
+0.743023

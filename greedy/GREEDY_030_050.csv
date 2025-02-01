@@ -1,0 +1,21 @@
+instance,time,solution len,solution
+0,0.012402,5,2 3 4 11 21
+instance,time,solution len,solution
+1,0.01161,5,1 3 5 9 17
+instance,time,solution len,solution
+2,0.01187,4,6 16 17 21
+instance,time,solution len,solution
+3,0.012213,4,0 6 14 28
+instance,time,solution len,solution
+4,0.012288,5,0 2 5 13 27
+instance,time,solution len,solution
+5,0.013032,5,0 2 5 12 17
+instance,time,solution len,solution
+6,0.012722,5,5 8 12 24 28
+instance,time,solution len,solution
+7,0.011502,5,0 4 5 9 29
+instance,time,solution len,solution
+8,0.012503,5,16 21 23 24 27
+instance,time,solution len,solution
+9,0.01135,5,1 3 12 22 25
+avg_time,0.0121492

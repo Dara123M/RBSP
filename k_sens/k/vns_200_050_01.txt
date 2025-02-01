@@ -1,0 +1,34 @@
+k:
+2solution:
+28 44 49 69 82 104 123 134 183 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+9
+
+ time:
+1243.970527k:
+3solution:
+28 44 49 69 82 114 123 134 183 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+9
+
+ time:
+1310.087042k:
+5solution:
+28 44 49 69 82 104 123 134 183 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+9
+
+ time:
+1481.742462

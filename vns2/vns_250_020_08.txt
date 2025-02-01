@@ -1,0 +1,11 @@
+solution:
+31 50 61 71 77 85 123 132 133 167 190 203 226 234 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+14
+
+ time:
+3216.076758

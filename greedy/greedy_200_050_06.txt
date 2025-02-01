@@ -1,0 +1,11 @@
+solution:
+42 62 79 137 138 160 169 178 199 
+
+ solution cost:
+0
+
+ num nodes in solution: 
+9
+
+ time:
+2.567078
